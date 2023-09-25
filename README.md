@@ -1,8 +1,8 @@
 # Python_Capstone
-This repository will contain files related to "Capstone: Retrieving, Processing, and Visualizing Data with Python"
+In this capstone, I will build a series of applications to retrieve, process and visualize data using Python. The projects will involve all the elements of the Python specialization.
 This Capstone will demonstrate my understanding of the following courses:
 1. Python programming fundamentals
 2. Python Data Structures
 3. Using Python to access web data
 4. Using databases with Python
-5. Capstone
+5. Capstone: Retrieving, Processing, and Visualizing Data with Python
