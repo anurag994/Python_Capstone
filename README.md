@@ -5,4 +5,3 @@ This Capstone will demonstrate my understanding of the following courses:
 2. Python Data Structures
 3. Using Python to access web data
 4. Using databases with Python
-5. Capstone: Retrieving, Processing, and Visualizing Data with Python
